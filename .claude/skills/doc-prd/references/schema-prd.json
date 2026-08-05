@@ -1,0 +1,88 @@
+{
+  "_comment": "Estrutura do JSON exportado pelo doc-prd. Chaves em inglês, valores no idioma de saída do documento. Campos vazios são omitidos na exportação. Não inclui anexos, stakeholders, próximos passos nem prazos.",
+  "meta": {
+    "product": "",
+    "feature": "",
+    "prd_owner": "",
+    "version": "",
+    "date": "YYYY-MM-DD"
+  },
+  "context": {
+    "summary": "",
+    "target_audience": [],
+    "key_use_cases": [],
+    "deployment_context": {
+      "type": "existing_system|new_system",
+      "description": ""
+    },
+    "problems": [
+      {
+        "description": "",
+        "impact": "",
+        "priority": "high|medium|low"
+      }
+    ]
+  },
+  "goals": [
+    {
+      "goal": "",
+      "metric": "",
+      "target": ""
+    }
+  ],
+  "scope": {
+    "in_scope": [],
+    "out_of_scope": []
+  },
+  "functional_requirements": [
+    {
+      "id": "RF-01",
+      "name": "",
+      "description": "",
+      "main_flow": [],
+      "alternative_flows": [],
+      "known_errors": [],
+      "priority": "high|medium|low"
+    }
+  ],
+  "non_functional_requirements": [
+    {
+      "category": "performance|availability|security|observability|reliability|compatibility|portability|compliance|accessibility",
+      "specifications": []
+    }
+  ],
+  "architecture": {
+    "approach": "",
+    "components": [],
+    "integrations": []
+  },
+  "decisions_tradeoffs": [
+    {
+      "decision": "",
+      "justification": "",
+      "trade_off": "",
+      "adr": ""
+    }
+  ],
+  "dependencies": [
+    {
+      "type": "external|organizational|technical",
+      "title": "",
+      "description": ""
+    }
+  ],
+  "risks": [
+    {
+      "risk": "",
+      "probability": "low|medium|high",
+      "impact": "",
+      "mitigation": [],
+      "contingency_plan": ""
+    }
+  ],
+  "acceptance_criteria": [],
+  "testing_validation": {
+    "test_types": [],
+    "strategy": ""
+  }
+}
